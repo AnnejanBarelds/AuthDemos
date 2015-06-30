@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
@@ -33,19 +33,5 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{490B201C-D63A-4D47-BBED-6078AAFC858F} = {14F65A53-E7E9-4B04-925B-1ECF7832490C}
 		{088030D1-49E4-41C3-AF87-A764969BC0FC} = {14F65A53-E7E9-4B04-925B-1ECF7832490C}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://pizzasessies.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = WebApp\\WebApp.csproj
-		SccProjectTopLevelParentUniqueName1 = AuthDemos.sln
-		SccProjectName1 = WebApp
-		SccLocalPath1 = WebApp
-		SccProjectUniqueName2 = WebService\\WebService.csproj
-		SccProjectTopLevelParentUniqueName2 = AuthDemos.sln
-		SccProjectName2 = WebService
-		SccLocalPath2 = WebService
 	EndGlobalSection
 EndGlobal
